@@ -58,7 +58,7 @@ We evaluated the model using:
 Classification Report: Metrics like precision, recall, and F1-score for both classes.
 ROC Curve: Plotted the Receiver Operating Characteristic (ROC) curve to visualize the model's ability to distinguish between classes.
 
-Key Takeaways
+Key Takeaways:
 
 Age and customer support calls are strong predictors of churn.
 Handling class imbalance is critical in churn prediction to ensure the minority class is not ignored.
